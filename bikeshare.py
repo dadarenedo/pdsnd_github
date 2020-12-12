@@ -2,6 +2,8 @@ import time
 import pandas as pd
 import numpy as np
 
+ """ Here you can find the code for the Udacity project  """
+
 CITY_DATA = { 'chicago': 'chicago.csv',
               'new york city': 'new_york_city.csv',
               'washington': 'washington.csv' }
@@ -212,7 +214,7 @@ def user_stats(df):
     print("\nThis took %s seconds." % (time.time() - start_time))
     print('-'*40)
 
-
+ """ This last function will ask the user if he would like to continue seeing  data """
 def display_data(df):
     
     view_data = input('\nWould you like to view 5 rows of individual trip data? Enter yes or no\n')
