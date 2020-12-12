@@ -2,7 +2,7 @@ import time
 import pandas as pd
 import numpy as np
 
- """ Here you can find the code for the Udacity project  """
+
 
 CITY_DATA = { 'chicago': 'chicago.csv',
               'new york city': 'new_york_city.csv',
