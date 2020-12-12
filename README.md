@@ -1,8 +1,8 @@
 ### Date created
-Include the date you created this project and README file.
+12/12/2020	
 
 ### Project Title
-Replace the Project Title
+Bikeshare data project for UDacity course
 
 ### Description
 Describe what your project is about and what it does
