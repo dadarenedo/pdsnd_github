@@ -5,7 +5,7 @@
 Version Control Udacity Project
 
 ### Description
-Describe what your project is about and what it does
+This udacity project contains a command line program to explore statistics of bikeshare data from three cities.
 
 ### Files used
 Include the files used
