@@ -8,7 +8,7 @@ Version Control Udacity Project. New Update 11:33
 This udacity project contains a command line program to explore statistics of bikeshare data from three cities.
 
 ### Files used
-Include the files used
+bikeshare.py
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
